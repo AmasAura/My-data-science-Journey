@@ -1,2 +1,3 @@
 # My-data-science-class
-This is a sample repository,  just for learning purposes
+This is a sample repository documenting my data sciencelearning journey
+
